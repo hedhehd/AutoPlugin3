@@ -64,5 +64,5 @@ This fixes missing non-standard characters, not found at english charset. Those 
 - Chronoss09 for translation in French
 - Schn1ek3 for translation in German
 - allanaln2009 for translation in Portuguese (PT-BR)
-- 
+
 Without you all, this wouldn't be possible.
