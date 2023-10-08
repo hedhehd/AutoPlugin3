@@ -1,5 +1,3 @@
-# Note
-AUTOPLUG3 will not be uploaded since you can use 7-Zip to access the vpk data.
 # Autoplugin III
 Autoplugin for PSVITA
 This tool allows you to install/uninstall plugins with one click.
