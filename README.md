@@ -1,5 +1,5 @@
-RESOURCE FOLDER IN AUTOPLUG3 IS OUTDATED AND WILL NEVER BE UPDATED SINCE IT TAKES A LONG TIME.
-Since you can use 7-Zip to access the vpk data.
+# Note
+AUTOPLUG3 will not be uploaded since you can use 7-Zip to access the vpk data.
 # Autoplugin III
 Autoplugin for PSVITA
 This tool allows you to install/uninstall plugins with one click.
@@ -64,4 +64,5 @@ This fixes missing non-standard characters, not found at english charset. Those 
 - Chronoss09 for translation in French
 - Schn1ek3 for translation in German
 - allanaln2009 for translation in Portuguese (PT-BR)
+- 
 Without you all, this wouldn't be possible.
